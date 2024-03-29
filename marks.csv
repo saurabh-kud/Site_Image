@@ -1,0 +1,91 @@
+﻿UserId,CourseName,FirstScore,SecondScore,ThirdScore,FourthScore,FifthScore,Passed,RecommendedCourse,EducationLevel,DifficultyLevel
+1,React,50,60,70,80,90,pass,Advanced React,master,Medium
+2,React,40,50,60,70,80,pass,Advanced React,master,Hard
+3,React,20,40,23,42,50,fail,Basic React,bachler,Easy
+4,React,20,50,50,20,45,fail,Basic React,master,Medium
+5,React,50,60,80,12,45,pass,Basic React,master,Easy
+6,React,20,20,25,20,40,fail,Basic React,bachler,Medium
+7,Html,50,60,60,45,60,pass,Css,master,Medium
+8,Html,60,50,60,70,80,pass,Css,master,Hard
+9,Html,50,60,70,80,60,pass,Css,master,Easy
+10,Html,50,60,60,45,60,pass,Css,master,Medium
+11,Html,20,20,25,10,19,fail,Css,master,Hard
+12,Html,10,20,10,15,20,fail,Css,master,Easy
+13,Javascript,50,60,70,80,80,pass,Backend,master,Medium
+14,Javascript,20,40,60,80,60,pass,Backend,master,Medium
+15,Javascript,30,50,40,60,60,pass,Backend,bachler,Medium
+16,Javascript,10,20,10,15,60,fail,Javascript,master,Medium
+17,Javascript,15,10,20,10,42,fail,Javascript,master,Medium
+18,Javascript,50,60,70,80,80,pass,Javascript,master,Medium
+19,Python,50,60,70,80,80,pass,Flask,bachler,Medium
+20,Python,20,40,60,80,60,pass,Flask,master,Medium
+21,Python,30,50,40,60,60,pass,Flask,master,Medium
+22,Python,10,20,10,15,60,fail,Python,bachler,Medium
+23,Python,15,10,20,10,42,fail,Python,master,Medium
+24,Python,50,60,70,80,80,pass,Python,master,Medium
+25,Css,50,60,70,80,80,pass,Javascript,bachler,Medium
+26,Css,20,40,60,80,60,pass,Javascript,master,Medium
+27,Css,30,50,40,60,60,pass,Javascript,master,Medium
+28,Css,10,20,10,15,60,fail,Css,bachler,Medium
+29,Css,15,10,20,10,42,fail,Css,master,Medium
+30,Css,50,60,70,80,80,pass,Css,master,Medium
+31,React,50,60,70,80,90,pass,Advanced React,master,Medium
+32,React,40,50,60,70,80,pass,Advanced React,master,Hard
+33,React,20,40,23,42,50,fail,Basic React,bachler,Easy
+34,React,20,50,50,20,45,fail,Basic React,master,Medium
+35,React,50,60,80,12,45,pass,Basic React,master,Easy
+36,React,20,20,25,20,40,fail,Basic React,bachler,Medium
+37,Html,50,60,60,45,60,pass,Css,master,Medium
+38,Html,60,50,60,70,80,pass,Css,master,Hard
+39,Html,50,60,70,80,60,pass,Css,master,Easy
+40,Html,50,60,60,45,60,pass,Css,master,Medium
+41,Html,20,20,25,10,19,fail,Css,master,Hard
+42,Html,10,20,10,15,20,fail,Css,master,Easy
+43,Javascript,50,60,70,80,80,pass,Backend,master,Medium
+44,Javascript,20,40,60,80,60,pass,Backend,master,Medium
+45,Javascript,30,50,40,60,60,pass,Backend,bachler,Medium
+46,Javascript,10,20,10,15,60,fail,Javascript,master,Medium
+47,Javascript,15,10,20,10,42,fail,Javascript,master,Medium
+48,Javascript,50,60,70,80,80,pass,Javascript,master,Medium
+49,Python,50,60,70,80,80,pass,Flask,bachler,Medium
+50,Python,20,40,60,80,60,pass,Flask,master,Medium
+51,Python,30,50,40,60,60,pass,Flask,master,Medium
+52,Python,10,20,10,15,60,fail,Python,bachler,Medium
+53,Python,15,10,20,10,42,fail,Python,master,Medium
+54,Python,50,60,70,80,80,pass,Python,master,Medium
+55,Css,50,60,70,80,80,pass,Javascript,bachler,Medium
+56,Css,20,40,60,80,60,pass,Javascript,master,Medium
+57,Css,30,50,40,60,60,pass,Javascript,master,Medium
+58,Css,10,20,10,15,60,fail,Css,bachler,Medium
+59,Css,15,10,20,10,42,fail,Css,master,Medium
+60,Css,50,60,70,80,80,pass,Css,master,Medium
+61,React,50,60,70,80,90,pass,Advanced React,master,Medium
+62,React,40,50,60,70,80,pass,Advanced React,master,Hard
+63,React,20,40,23,42,50,fail,Basic React,bachler,Easy
+64,React,20,50,50,20,45,fail,Basic React,master,Medium
+65,React,50,60,80,12,45,pass,Basic React,master,Easy
+66,React,20,20,25,20,40,fail,Basic React,bachler,Medium
+67,Html,50,60,60,45,60,pass,Css,master,Medium
+68,Html,60,50,60,70,80,pass,Css,master,Hard
+69,Html,50,60,70,80,60,pass,Css,master,Easy
+70,Html,50,60,60,45,60,pass,Css,master,Medium
+71,Html,20,20,25,10,19,fail,Css,master,Hard
+72,Html,10,20,10,15,20,fail,Css,master,Easy
+73,Javascript,50,60,70,80,80,pass,Backend,master,Medium
+74,Javascript,20,40,60,80,60,pass,Backend,master,Medium
+75,Javascript,30,50,40,60,60,pass,Backend,bachler,Medium
+76,Javascript,10,20,10,15,60,fail,Javascript,master,Medium
+77,Javascript,15,10,20,10,42,fail,Javascript,master,Medium
+78,Javascript,50,60,70,80,80,pass,Javascript,master,Medium
+79,Python,50,60,70,80,80,pass,Flask,bachler,Medium
+80,Python,20,40,60,80,60,pass,Flask,master,Medium
+81,Python,30,50,40,60,60,pass,Flask,master,Medium
+82,Python,10,20,10,15,60,fail,Python,bachler,Medium
+83,Python,15,10,20,10,42,fail,Python,master,Medium
+84,Python,50,60,70,80,80,pass,Python,master,Medium
+85,Css,50,60,70,80,80,pass,Javascript,bachler,Medium
+86,Css,20,40,60,80,60,pass,Javascript,master,Medium
+87,Css,30,50,40,60,60,pass,Javascript,master,Medium
+88,Css,10,20,10,15,60,fail,Css,bachler,Medium
+89,Css,15,10,20,10,42,fail,Css,master,Medium
+90,Css,50,60,70,80,80,pass,Css,master,Medium
